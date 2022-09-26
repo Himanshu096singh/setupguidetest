@@ -171,4 +171,7 @@
    });
    
 </script>
+<script>
+   test
+</script>
 @endsection
