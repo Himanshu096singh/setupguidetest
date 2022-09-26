@@ -11,7 +11,7 @@
                      <h3 class="m-0 text_white">Product </h3>
                      
                   </div>
-                  
+                   
                </div>
             </div>
             <div class="white_card_body">
