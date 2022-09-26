@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-20">
+            <rect id="矩形备份-11" x="0" y="0" width="80" height="80"></rect>
+            <rect id="矩形" stroke="#000000" stroke-width="2" x="2" y="15" width="67" height="48" rx="2"></rect>
+            <circle id="椭圆形" fill="#000000" cx="35.5" cy="19.5" r="1.5"></circle>
+            <path d="M77.4417419,61.6368774 L79,66 L79,66 L74,66 L75.5582581,61.6368774 C75.7440116,61.1167677 76.3162267,60.8457184 76.8363364,61.0314718 C77.118691,61.1323128 77.340901,61.3545228 77.4417419,61.6368774 Z" id="三角形" fill="#000000" transform="translate(76.500000, 62.500000) scale(1, -1) translate(-76.500000, -62.500000) "></path>
+            <path d="M76.5,21 C77.3284271,21 78,21.6715729 78,22.5 L78,58 L78,58 L75,58 L75,22.5 C75,21.6715729 75.6715729,21 76.5,21 Z" id="矩形" stroke="#000000" stroke-width="2"></path>
+            <line x1="32" y1="60" x2="38" y2="60" id="直线-2" stroke="#000000" stroke-width="2" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>
